@@ -53,6 +53,3 @@ I’m always open to discussing programming, DSA, and collaborating on projects.
 
 **Thank you** for visiting my repository! I hope my journey inspires others to dive into the world of Data Structures and Algorithms and embrace the challenges that come with it. Keep coding and keep growing! 💻✨
 
----
-
-This version removes any mention of greedy algorithms and DP while still highlighting your achievements and skills. Let me know if you'd like further adjustments! 😊
